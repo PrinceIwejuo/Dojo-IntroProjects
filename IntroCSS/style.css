@@ -1,0 +1,30 @@
+.first{
+    background-color: rgb(7, 7, 7);
+    text-decoration: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: bolder;
+    
+}
+
+#one{
+    color: white;
+    padding-left: 2%;
+}
+
+#two{
+    color: skyblue;
+}
+
+.second  {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: blueviolet;
+    padding-right: 2%;
+}
+
+#bottom {
+    text-align: right;
+    text-decoration: underline;
+    background-color: skyblue;
+    
+}
