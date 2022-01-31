@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 60%;
+    margin: 0 auto;
+    border: 2px solid grey;
+}
+header {
+    background-color: teal;
+    padding-bottom: 5%;
+    min-height: 33%;
+    position: inherit;
+}
+
+.main {
+    margin: 4%;
+    padding: 1%;
+    gap:1em;
+}
+
+.last {
+    display:flex;
+    margin-top: 1.5%;
+}
+
+h3 {
+    width: 70%;
+    margin-top: 1.5%;
+}
+
+h2 {
+    margin-top: 1.5%;
+}
+
+
+p {
+    text-decoration: underline;
+    color:blue
+}
+
+#pic1 {
+    height: 15px;
+}
+
+#pic2 {
+    height: 15px;
+    
+}
+#pic3 {
+    position: relative;
+    left: 50px;
+    bottom: 15px;
+    height: 60px;
+}
